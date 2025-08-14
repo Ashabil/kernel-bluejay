@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "gta4xl",
-      "repo": "https://github.com/LineageOS/android_kernel_samsung_gta4xl",
-      "branch": "lineage-22.1",
-      "device": "exynos9611-gta4xl"
+      "name": "Pixel6a",
+      "repo": "https://android.googlesource.com/kernel/common/+/refs/tags/android14-6.1-2025-01_r27",
+      "branch": "Android16",
+      "device": "Bluejay-Pixel6a"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
